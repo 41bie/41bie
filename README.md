@@ -4,19 +4,20 @@
 Bio
 
 ## Featured Projects
+## [Pakura](https://github.com/41bie/pakura)
 
-### [Pakura](https://github.com/41bie/pakura)
+![pakura profile image](./images/pakura-profile.png)
 
-about pakura
+A pocket-sized ESP32 anime companion that passively scans, fingerprints, and logs every WiFi network she detects, reporting her findings through her UI and her own access-point-hosted dashboard.
 
-### [Homelab](https://github.com/41bie/homelab)
+## [Homelab](https://github.com/41bie/homelab)
 
-about homelab
+![homelab profile image](./images/homelab-profile.png)
 
-## What I'm Working On
+The story of my ongoing homelab experience.
 
--
 
+<br> <br>
 <p>
   <img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity">
