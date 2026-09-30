@@ -1,8 +1,3 @@
-
-## About
-
-Bio
-
 ## Featured Projects
 ## [Pakura](https://github.com/41bie/pakura)
 
