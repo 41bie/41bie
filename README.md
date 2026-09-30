@@ -9,7 +9,7 @@ A pocket-sized ESP32 anime companion that passively scans, fingerprints, and log
 
 ![homelab profile image](./images/homelab-profile.png)
 
-The story of my ongoing homelab experience.
+The story of my ongoing homelab project.
 
 
 <br> <br>
